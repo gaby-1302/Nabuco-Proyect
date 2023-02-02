@@ -95,6 +95,7 @@ GameObject:
   - component: {fileID: 493796689120729811}
   - component: {fileID: 493796689120729810}
   - component: {fileID: 3002799559549883298}
+  - component: {fileID: 250952920}
   m_Layer: 0
   m_Name: Enemy
   m_TagString: Untagged
@@ -213,3 +214,19 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f32485bd5686fab4dad9758f6b05de72, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!58 &250952920
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 493796689120729809}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  serializedVersion: 2
+  m_Radius: 0.2
