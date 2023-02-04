@@ -244,6 +244,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: MyDialogueManager
       objectReference: {fileID: 0}
+    - target: {fileID: 9173275523527244613, guid: 66a4a0813b45331428644eea24ab5c30, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 10.000122
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 66a4a0813b45331428644eea24ab5c30, type: 3}
 --- !u!1001 &5188772009829352140
